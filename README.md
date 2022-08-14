@@ -26,7 +26,7 @@ By creating the school summary, changes are identified in the Thomas High School
 ##### Table 3. Thomas High School summary after change
 ![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T3_Dist_Summary_After.png)
 
-
+ 
 ### Impact on Thomas High School’s performance relative to the other schools
 According to the changes in the average scores and passing rates, the high school dropped from fourth to sixth place in the average math score and from first to third place in the reading passing rate. Otherwise, Thomas High School is ranked in the same place in both data.
 
@@ -39,7 +39,7 @@ Both table 4 and 5 indicate the average score as NaN for Thomas High School as a
 ##### Table 5. Score summary (Reading) by grade 
 ![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T5_Read_by_Grade_After.png)
 
-
+ 
 ## 3. Summary
 Changes in the updated school district analysis are summarized as the following four topics after the scores have been replaced.
 
@@ -54,10 +54,10 @@ Changes in the updated school district analysis are summarized as the following 
 ##### Table 6. Score summary by school spending
 ![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T6_By_Spending_After.png)
 
-
+ 
 ##### Table 7. Score summary by school size
 ![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T7_By_Size_After.png)
 
-
+ 
 ##### Table 8. Score summary by school type
 ![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T8_By_Type_After.png)
