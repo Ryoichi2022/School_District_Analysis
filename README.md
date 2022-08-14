@@ -41,10 +41,19 @@ Both table 4 and 5 indicate the average score as NaN for Thomas High School as a
 ## 3. Summary
 Changes in the updated school district analysis are summarized as the following four topics after the scores have been replaced.
 
-* 1. As the average score becomes lower by replacement compared with the original average score in both math and reading. Therefore, the original scores for the ninth grader of Thomas High School could possibly be higher on purpose than they are.
+*1. As the average score becomes lower by replacement compared with the original average score in both math and reading. Therefore, the original scores for the ninth grader of Thomas High School could possibly be higher on purpose than they are.
 
-* 2. Based on analysis, the average scores and passing rates have changed, but they seem immaterial. This might be because the number of students in the ninth grade at Thomas High School only accounts for 1.18%, or 461 students, of the total number of students in the school district.
+*2. Based on analysis, the average scores and passing rates have changed, but they seem immaterial. This might be because the number of students in the ninth grade at Thomas High School only accounts for 1.18%, or 461 students, of the total number of students in the school district.
 
-* 3. The average scores will be expressed as NaN for the Thomas High School’s ninth graders until their scores are validated. However, it will not significantly influence the other analyses based on school spending (Table 5), school size (Table 6), and school type (Table 7).
+*3. The average scores will be expressed as NaN for the Thomas High School’s ninth graders until their scores are validated. However, it will not significantly influence the other analyses based on school spending (Table 5), school size (Table 6), and school type (Table 7).
 
-* 4. If academic dishonesty is considered pervasive as a result of further investigation on data from other graders of Thomas High School or other schools, another analysis will be necessary, which could greatly impact the consequences.
+*4. If academic dishonesty is considered pervasive as a result of further investigation on data from other graders of Thomas High School or other schools, another analysis will be necessary, which could greatly impact the consequences.
+
+##### Table 6. Score summary by school spending
+![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T6_By_Spending_After.png)
+
+##### Table 7. Score summary by school size
+![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T7_By_Size_After.png)
+
+##### Table 8. Score summary by school type
+![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T8_By_Type_After.png)
