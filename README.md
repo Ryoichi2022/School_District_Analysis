@@ -43,7 +43,7 @@ Both table 4 and 5 indicate the average score as NaN for the Thomas High School 
 ## 3. Summary
 Changes in the updated school district analysis are summarized as the following four topics after the scores have been replaced.
 
-* As the average score becomes lower by replacement compared with the original average score in both math and reading. Therefore, the original scores for the ninth grader of Thomas High School could possibly be higher on purpose than they are.
+* The average score becomes lower by replacement compared with the original average score in both math and reading. Therefore, the original scores for the ninth grader of Thomas High School could possibly be higher on purpose than they are.
 
 * Based on analysis, the average scores and passing rates have changed, but they seem immaterial. This might be because the number of students in the ninth grade at Thomas High School only accounts for 1.18%, or 461 students, of the total number of students in the school district.
 
