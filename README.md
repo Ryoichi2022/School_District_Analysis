@@ -47,7 +47,7 @@ Changes in the updated school district analysis are summarized as the following 
 
 * Based on analysis, the average scores and passing rates have changed, but they seem immaterial. This might be because the number of students in the ninth grade at Thomas High School only accounts for 1.18%, or 461 students, of the total number of students in the school district.
 
-* The average scores will be expressed as NaN for the Thomas High School’s ninth graders until their scores are validated. However, it will not significantly influence the other analyses based on school spending (Table 5), school size (Table 6), and school type (Table 7).
+* The average scores will be expressed as NaN for the Thomas High School’s ninth graders until their scores are validated. However, it will not significantly influence the other analyses based on school spending (Table 6), school size (Table 7), and school type (Table 8).
 
 * If academic dishonesty is considered pervasive as a result of further investigation on data from other graders of Thomas High School or other schools, another analysis will be necessary, which could greatly impact the consequences.
 
