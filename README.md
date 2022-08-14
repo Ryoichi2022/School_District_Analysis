@@ -28,7 +28,7 @@ By creating the school summary, changes are identified in the Thomas High School
 
  
 ### Impact on Thomas High School’s performance relative to the other schools
-According to the changes in the average scores and passing rates, the high school dropped from fourth to sixth place in the average math score and from first to third place in the reading passing rate. Otherwise, Thomas High School is ranked in the same place in both data.
+According to the changes in the average scores and passing rates, the high school dropped from fourth to sixth place in the average math score and from first to third place in the reading passing rate. Otherwise, Thomas High School is ranked in the same place before and after changes.
 
 ### Changes in the other score summaries
 Both table 4 and 5 indicate the average score as NaN for Thomas High School as all math and reading scores have been removed from the data. In other summaries, no changes are identified based on the analysis at the one decimal place level. 
