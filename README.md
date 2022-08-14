@@ -31,7 +31,7 @@ By creating the school summary, changes are identified in the Thomas High School
 According to the changes in the average scores and passing rates, the high school dropped from fourth to sixth place in the average math score and from first to third place in the reading passing rate. Otherwise, Thomas High School is ranked in the same place before and after changes.
 
 ### Changes in the other score summaries
-Both table 4 and 5 indicate the average score as NaN for Thomas High School as all math and reading scores have been removed from the data. In other summaries, no changes are identified based on the analysis at the one decimal place level. 
+Both table 4 and 5 indicate the average score as NaN for the Thomas High School ninth graders as all math and reading scores have been removed from the data. In other summaries, no changes are identified based on the analysis at the one decimal place level. 
 
 ##### Table 4. Score summary (Math) by grade after change 
 ![](https://github.com/Ryoichi2022/School_District_Analysis/blob/main/T4_Math_by_Grade_After.png)
